@@ -12,14 +12,19 @@
 --------
 
 -   系统环境: Windows 10
-
 -   开发环境: NodeJS 12.18.3 & React 16.13 & Typescript 3.7
-
 -   主要依赖: React-dom 16.13 & Material-UI 4
-
 -   实际部署环境: Centos 7 & NodeJS 14.8
-
 -   部署网站: <http://ayajike.xyz:1234/>
+
+重要第三方库
+------------
+
+-   **Material UI**：Material Design 风格的组件库
+
+-   **React Markdown**：React 下的 Markdown 渲染器
+
+-   **React Markdown Editor Lite**：React 下的 Markdown 编辑器
 
 编译方式
 --------
